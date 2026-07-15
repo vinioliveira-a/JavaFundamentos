@@ -49,7 +49,7 @@ Para executar estes programas, siga os passos abaixo:
 1. Acesse a pasta do projeto:
 
    ```bash
-   cd cesafioBasicos
+   cd desafioBasicos
    ```
 
 1. Navegue até o diretório do exercício desejado e execute o programa conforme a linguagem utilizada (ex: `java NomeDoArquivo.java` ou `python NomeDoArquivo.py`).# JavaFundamentos
