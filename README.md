@@ -52,4 +52,4 @@ Para executar estes programas, siga os passos abaixo:
    cd cesafioBasicos
    ```
 
-1. Navegue até o diretório do exercício desejado e execute o programa conforme a linguagem utilizada (ex: `java NomeDoArquivo.java` ou `python NomeDoArquivo.py`).
+1. Navegue até o diretório do exercício desejado e execute o programa conforme a linguagem utilizada (ex: `java NomeDoArquivo.java` ou `python NomeDoArquivo.py`).# JavaFundamentos
